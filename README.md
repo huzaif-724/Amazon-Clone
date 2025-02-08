@@ -1,4 +1,4 @@
-# Amazon-Clone
+![Screenshot 2025-02-08 200408](https://github.com/user-attachments/assets/4023d6b2-8f41-4621-b8a8-bc7b4a4e91db)# Amazon-Clone
 
 This is a simple Amazon Clone built using HTML, CSS, and JavaScript. The project replicates the basic structure and styling of the Amazon homepage, providing a responsive and visually appealing user interface.
 
@@ -19,3 +19,14 @@ Implement a backend with Node.js and Express.js. <br/>
 Add user authentication and login system.<br/>
 Improve cart functionality with local storage.<br/>
 Add a checkout page with a payment gateway.<br/>
+
+## Screenshots
+![Screenshot 2025-02-08 195334](https://github.com/user-attachments/assets/ab73b2a0-cc20-4502-b4d1-c2ba366fa6ed)
+
+![Screenshot 2025-02-08 200408](https://github.com/user-attachments/assets/560efe1a-7c9c-499e-97b2-30cdbefdccfa)
+
+![Screenshot 2025-02-08 195439](https://github.com/user-attachments/assets/ecf81150-44c1-402d-80a9-e36f3e5592fc)
+
+
+
+
