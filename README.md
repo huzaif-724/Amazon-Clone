@@ -1,4 +1,4 @@
-![Screenshot 2025-02-08 200408](https://github.com/user-attachments/assets/4023d6b2-8f41-4621-b8a8-bc7b4a4e91db)# Amazon-Clone
+# Amazon-Clone
 
 This is a simple Amazon Clone built using HTML, CSS, and JavaScript. The project replicates the basic structure and styling of the Amazon homepage, providing a responsive and visually appealing user interface.
 
